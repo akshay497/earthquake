@@ -10,3 +10,4 @@ Get precise information about the earthquakes along with its location, depth, da
 Get an overview of all the earthquakes recorded via the Earthquake Map.
 
 Get Real-Time updates provided by the USGS.
+![earthquake2](https://user-images.githubusercontent.com/76857976/151760973-5e1c506c-f173-4d95-8cbf-ea26766a897c.png)
